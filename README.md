@@ -1,73 +1,172 @@
-<!-- 🌈 README Muhammad Fakhri -->
-<h1 align="center" style="color:#00BFFF;">🚀 Hello, I'm <span style="color:#FFD700;">Muhammad Fakhri</span> 👋</h1>
-<h3 align="center" style="color:#87CEEB;">💻 Developer Santai Tapi Niat | Web & Trading Enthusiast</h3>
+<!-- 🌐 README - HTML Project by Muhammad Fakhri -->
+
+<h1 align="center" style="color:#00BFFF;">💻 Praktikum Pemrograman HTML</h1>
+<h3 align="center" style="color:#FFD700;">SMK Muhammadiyah 3 Tangerang Selatan</h3>
 
 ---
 
-### 🎨 Tentang Gue
-> 🌟 Pelajar yang lagi fokus di **web development** & **trading**.  
-> Suka ngoding malam hari sambil ngopi ☕ & mantau candlestick 📈.  
-> Motto: *“Santai tapi niat, hasil pasti keliatan.”* 😎  
+### 🧑‍💻 Disusun oleh:
+**Muhammad Fakhri**
+
+> *“Belajar HTML bukan cuma tentang kode, tapi tentang cara bikin halaman yang hidup.”*
 
 ---
 
-### 💡 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,vscode,github" />
-</p>
+## 🎯 Tujuan
+- Peserta didik dapat memahami dasar-dasar pembuatan halaman web menggunakan HTML.  
+- Peserta mampu membuat struktur dan elemen dasar HTML dengan benar.  
+- Peserta mengetahui fungsi tiap elemen HTML.
 
 ---
 
-### ⚙️ Skill yang Gue Kuasai
-| 🧩 Kategori | ⚡ Skill |
-|--------------|-----------|
-| 🎨 **Frontend Dasar** | HTML, CSS |
-| 🧠 **Programming Language** | Python, C++ |
-| 🧰 **Tools & Environment** | VS Code, GitHub |
-| 💬 **Soft Skill** | Fokus, Niat Belajar, Adaptif |
-| 📈 **Trading & Finance** | Analisa Teknikal, Manajemen Risiko, Trendline |
+## 🧠 Dasar Teori
+HTML (**HyperText Markup Language**) adalah bahasa standar untuk membuat halaman web.  
+Dengan HTML, kita bisa menampilkan teks, gambar, tautan, tabel, dan elemen lain yang terlihat di browser seperti **Google Chrome** atau **Firefox**.
 
 ---
 
-### 📊 Progress Belajar
-| 💻 Bidang | 🔥 Status |
-|------------|-----------|
-| HTML | ✅ Sudah paham dasar |
-| CSS | ✅ Bisa bikin tampilan rapi |
-| Python | ⚙️ Sedang diperdalam |
-| C++ | 🧩 Masih latihan logic |
-| Trading | 💹 Aktif belajar tiap hari |
+## 🧩 Beberapa Elemen Dasar HTML
+| Tag | Fungsi |
+|-----|---------|
+| `<h1>` - `<h6>` | Membuat judul / heading |
+| `<p>` | Paragraf teks |
+| `<a>` | Hyperlink |
+| `<img>` | Menampilkan gambar |
+| `<hr>` | Garis horizontal |
+| `<br>` | Ganti baris |
+| `<b>`, `<i>`, `<u>` | Format teks (bold, italic, underline) |
+| `<table>` | Menampilkan tabel data |
+| `<ul>`, `<ol>` | Menampilkan daftar list |
+| `<div>` | Membuat layout blok |
 
 ---
 
-### 🌈 Fun Fact
-- ☕ Ngoding sambil pantau XAU/USD  
-- 🧠 Gampang fokus kalo sambil denger musik  
-- 🌙 Lebih produktif pas malam  
-- 💬 Slogan: *“Code dulu, profit belakangan.”* 😂  
+## 🧱 Contoh Struktur HTML Sederhana
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Belajar HTML Dasar</title>
+  </head>
+  <body>
+    <h1>Selamat Datang di Website Saya</h1>
+    <p>Ini adalah paragraf pertama saya menggunakan HTML.</p>
+    <a href="https://www.w3schools.com">Kunjungi W3Schools</a>
+    <hr>
+    <img src="logo.png" alt="Logo Sekolah" width="150">
+  </body>
+</html><!-- 🌐 README - HTML Project by Muhammad Fakhri -->
+
+<h1 align="center" style="color:#00BFFF;">💻 Praktikum Pemrograman HTML</h1>
+<h3 align="center" style="color:#FFD700;">SMK Muhammadiyah 3 Tangerang Selatan</h3>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/usernamekamu"><img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:muhammadfakhri@gmail.com"><img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/usernamekamu"><img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### 🧑‍💻 Disusun oleh:
+**Muhammad Fakhri**
+
+> *“Belajar HTML bukan cuma tentang kode, tapi tentang cara bikin halaman yang hidup.”*
 
 ---
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernamekamu&theme=radical&hide_border=true" height="165"/>
-</p>
+## 🎯 Tujuan
+- Peserta didik dapat memahami dasar-dasar pembuatan halaman web menggunakan HTML.  
+- Peserta mampu membuat struktur dan elemen dasar HTML dengan benar.  
+- Peserta mengetahui fungsi tiap elemen HTML.
 
 ---
 
-### ✨ Quote of the Day
-> *“Keep learning, keep coding, and keep improving — step by step, bro.”* 💪  
+## 🧠 Dasar Teori
+HTML (**HyperText Markup Language**) adalah bahasa standar untuk membuat halaman web.  
+Dengan HTML, kita bisa menampilkan teks, gambar, tautan, tabel, dan elemen lain yang terlihat di browser seperti **Google Chrome** atau **Firefox**.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Santai+tapi+niat+💻;Coding+%26+Trading+📈;Made+with+❤️+by+Muhammad+Fakhri"/>
-</p>
+---
+
+## 🧩 Beberapa Elemen Dasar HTML
+| Tag | Fungsi |
+|-----|---------|
+| `<h1>` - `<h6>` | Membuat judul / heading |
+| `<p>` | Paragraf teks |
+| `<a>` | Hyperlink |
+| `<img>` | Menampilkan gambar |
+| `<hr>` | Garis horizontal |
+| `<br>` | Ganti baris |
+| `<b>`, `<i>`, `<u>` | Format teks (bold, italic, underline) |
+| `<table>` | Menampilkan tabel data |
+| `<ul>`, `<ol>` | Menampilkan daftar list |
+| `<div>` | Membuat layout blok |
+
+---
+<!-- 🌐 README - HTML Project by Muhammad Fakhri -->
+
+<h1 align="center" style="color:#00BFFF;">💻 Praktikum Pemrograman HTML</h1>
+<h3 align="center" style="color:#FFD700;">SMK Muhammadiyah 3 Tangerang Selatan</h3>
+
+---
+
+### 🧑‍💻 Disusun oleh:
+**Muhammad Fakhri**
+
+> *“Belajar HTML bukan cuma tentang kode, tapi tentang cara bikin halaman yang hidup.”*
+
+---
+
+## 🎯 Tujuan
+- Peserta didik dapat memahami dasar-dasar pembuatan halaman web menggunakan HTML.  
+- Peserta mampu membuat struktur dan elemen dasar HTML dengan benar.  
+- Peserta mengetahui fungsi tiap elemen HTML.
+
+---
+
+## 🧠 Dasar Teori
+HTML (**HyperText Markup Language**) adalah bahasa standar untuk membuat halaman web.  
+Dengan HTML, kita bisa menampilkan teks, gambar, tautan, tabel, dan elemen lain yang terlihat di browser seperti **Google Chrome** atau **Firefox**.
+
+---
+
+## 🧩 Beberapa Elemen Dasar HTML
+| Tag | Fungsi |
+|-----|---------|
+| `<h1>` - `<h6>` | Membuat judul / heading |
+| `<p>` | Paragraf teks |
+| `<a>` | Hyperlink |
+| `<img>` | Menampilkan gambar |
+| `<hr>` | Garis horizontal |
+| `<br>` | Ganti baris |
+| `<b>`, `<i>`, `<u>` | Format teks (bold, italic, underline) |
+| `<table>` | Menampilkan tabel data |
+| `<ul>`, `<ol>` | Menampilkan daftar list |
+| `<div>` | Membuat layout blok |
+
+---
+
+## 🧱 Contoh Struktur HTML Sederhana
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Belajar HTML Dasar</title>
+  </head>
+  <body>
+    <h1>Selamat Datang di Website Saya</h1>
+    <p>Ini adalah paragraf pertama saya menggunakan HTML.</p>
+    <a href="https://www.w3schools.com">Kunjungi W3Schools</a>
+    <hr>
+    <img src="logo.png" alt="Logo Sekolah" width="150">
+  </body>
+</html>
+## 🧱 Contoh Struktur HTML Sederhana
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Belajar HTML Dasar</title>
+  </head>
+  <body>
+    <h1>Selamat Datang di Website Saya</h1>
+    <p>Ini adalah paragraf pertama saya menggunakan HTML.</p>
+    <a href="https://www.w3schools.com">Kunjungi W3Schools</a>
+    <hr>
+    <img src="logo.png" alt="Logo Sekolah" width="150">
+  </body>
+</html>
